@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nainarathore
-- 👀 I’m interested in Artificial intelligence 
+- 👀 I’m interested in Artificial intelligence and Machine Learning
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on some good coding projects and competitions.
 - 📫 How to reach me through my email which is nainarathore954@gmail.com .
