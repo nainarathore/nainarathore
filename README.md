@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nainarathore
-- 👀 I’m interested in Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning Coding
+- 👀 I’m an intermediate in Machine Learning.
+- 🌱 I’m currently working on various algorithms to solve real life problems.
 - 💞️ I’m looking to collaborate on some good coding projects and competitions.
-- 📫 How to reach me through my email which is nainarathore1024@gmail.com .
+- 📫 How to reach me through my email which is nainarathore1024@gmail.com or connect with me on linkedin https://www.linkedin.com/in/nainarathore
 
 <!---
 nainarathore/nainarathore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
